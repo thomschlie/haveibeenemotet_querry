@@ -1,4 +1,4 @@
-##Short program to automatic querry E-Mails/Domains at www.haveibeenemotet.com
+## Short program to automatic querry E-Mails/Domains at www.haveibeenemotet.com
 I wrote this program at work (Berlin-CERT). I needed to querry thousands of emails/domains with 
 [www.haveibeenemotet.com](www.haveibeenemotet.com)
 The program takes a list of email-addresses from file or stdin.
